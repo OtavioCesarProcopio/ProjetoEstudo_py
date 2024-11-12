@@ -1,2 +1,2 @@
 # ProjetoEstudo_py
-Aquivo de estudo python
+Aquivo de estudo python Ok
